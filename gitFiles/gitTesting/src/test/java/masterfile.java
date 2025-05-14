@@ -5,6 +5,6 @@ public class masterfile {
 
         System.out.println("master file  qa1  and dev1");
 
-        
+
     }
 }
