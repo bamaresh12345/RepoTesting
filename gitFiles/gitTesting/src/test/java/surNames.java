@@ -9,8 +9,5 @@ public class surNames {
 
         Sur Name4
 
-        am disco danser1
-        am disco danser1
-
      */
 }
