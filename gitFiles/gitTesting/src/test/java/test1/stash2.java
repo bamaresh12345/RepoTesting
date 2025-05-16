@@ -1,0 +1,9 @@
+package test1;
+
+public class stash2 {
+
+    /*
+  stadh2 1
+
+     */
+}
