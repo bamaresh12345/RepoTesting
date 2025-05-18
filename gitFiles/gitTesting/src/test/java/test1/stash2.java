@@ -9,6 +9,8 @@ public class stash2 {
    git pull
 
    git pull aand fetch
+
+   git pull aand fetch234234
    
      */
 }
