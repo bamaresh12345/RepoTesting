@@ -8,6 +8,7 @@ public class qa4 {
         /*git pull
         git pull2
         git pull2
+        git pull2
 
             */
 }
