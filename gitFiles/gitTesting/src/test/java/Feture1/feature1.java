@@ -1,7 +1,7 @@
 package Feture1;
 
 public class feature1 {
-    /*
+   /*
      Feature 1 added
 
      Feature 2 added --> delete all files in feature 1 and veryify merge conflits
