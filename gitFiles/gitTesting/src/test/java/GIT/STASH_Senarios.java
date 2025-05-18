@@ -1,9 +1,9 @@
-package test1;
+package GIT;
 
 public class STASH_Senarios {
 
     /*
-  stadh2 1
+  stash 1
 
    1. Stash in q1 , only add not commit else , cant pop
     and checkout master , stash pop and move to fodelr and add,commit and push to master
