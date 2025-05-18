@@ -2,10 +2,13 @@ public class stash {
     /*
      stash 1
 
-      stash 2
+<<<<<<< Updated upstream
+     stash 2
 
-       stash 3
+     stash 3
 
+=======
+>>>>>>> Stashed changes
      */
 
 
