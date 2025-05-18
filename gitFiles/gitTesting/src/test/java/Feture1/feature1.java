@@ -12,6 +12,7 @@ public class feature1 {
 
      ADDED1
       ADDED2
+      ADDED3
 
      */
 }
