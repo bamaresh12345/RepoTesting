@@ -10,5 +10,7 @@ public class feature1 {
      git add . ; git commit and git push
      will resolve the conflits
 
+     ADDED
+
      */
 }
