@@ -7,5 +7,8 @@ public class stash2 {
 
    stadh2 2
    git pull
+
+   git pull aand fetch
+   
      */
 }
