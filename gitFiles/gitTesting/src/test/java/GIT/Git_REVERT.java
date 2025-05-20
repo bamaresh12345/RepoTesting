@@ -13,7 +13,5 @@ public class Git_REVERT {
        it will automatically will create an new branch with branchName-revert2
        create a pull resuqest and merge it.
 
-       Delete line
-
      */
 }
